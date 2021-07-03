@@ -1,7 +1,9 @@
 body {
 	overflow-x: hidden;
     background-image: url(Assets/bgbody.jpeg);
-    color: #fff
+    height: 100%;
+    width: 100%;
+    color: #fff;
 }
 
 .banner {
@@ -9,7 +11,8 @@ body {
 	background-image: url(Assets/q.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
-	height: 100vh;
+	height: 100%;
+    width: 100%;
 	color: #fff;
 }
 
